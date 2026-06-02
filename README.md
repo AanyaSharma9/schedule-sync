@@ -38,11 +38,11 @@ LOGIN PAGE-
 ADMIN DASHBOARD-
 <img width="1866" height="871" alt="image" src="https://github.com/user-attachments/assets/859d690d-9d41-4c48-af69-f9f9aab0e4fb" />
 <img width="1502" height="681" alt="image" src="https://github.com/user-attachments/assets/87d107a5-deb0-41be-94b8-4a38b61c43b5" />
-FACULTY DASHBOARD-
 <img width="1459" height="514" alt="image" src="https://github.com/user-attachments/assets/c14dd21b-17ed-4308-9a62-82bc6d1a47e3" />
-<img width="1855" height="859" alt="image" src="https://github.com/user-attachments/assets/963b0bfc-ec2f-4dda-acc6-19ea631869da" />
 STUDENT DASHBOARD-
+<img width="1855" height="859" alt="image" src="https://github.com/user-attachments/assets/963b0bfc-ec2f-4dda-acc6-19ea631869da" />
 <img width="1476" height="515" alt="image" src="https://github.com/user-attachments/assets/b486bcc6-7495-4c12-b0e8-49cb96066802" />
+FACULTY DASHBOARD-
 <img width="1861" height="851" alt="image" src="https://github.com/user-attachments/assets/abaede50-ec26-4691-9325-3ddc35a3c62e" />
 <img width="1496" height="488" alt="image" src="https://github.com/user-attachments/assets/7666bd09-762f-4657-a453-3446ffbfab54" />
 MY SQL TABLES-
