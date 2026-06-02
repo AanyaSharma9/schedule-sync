@@ -32,7 +32,9 @@ Folder structure
 7. `server/` — Node.js (backend)
 8. `java-module/` — JSP + Servlet + JDBC files
 
+LOGIN PAGE-
 <img width="932" height="425" alt="image" src="https://github.com/user-attachments/assets/4f64a7b3-0aef-4e5e-aa1e-f9cca243f337" />
+
 <img width="1209" height="847" alt="image" src="https://github.com/user-attachments/assets/c75ad348-6c52-4010-b7eb-0188632770e7" />
 <img width="1866" height="871" alt="image" src="https://github.com/user-attachments/assets/859d690d-9d41-4c48-af69-f9f9aab0e4fb" />
 <img width="1502" height="681" alt="image" src="https://github.com/user-attachments/assets/87d107a5-deb0-41be-94b8-4a38b61c43b5" />
