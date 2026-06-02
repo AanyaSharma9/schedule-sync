@@ -33,3 +33,5 @@ Folder structure
 8. `java-module/` — JSP + Servlet + JDBC files
 
 <img width="932" height="425" alt="image" src="https://github.com/user-attachments/assets/4f64a7b3-0aef-4e5e-aa1e-f9cca243f337" />
+<img width="1209" height="847" alt="image" src="https://github.com/user-attachments/assets/c75ad348-6c52-4010-b7eb-0188632770e7" />
+
