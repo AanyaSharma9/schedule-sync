@@ -31,3 +31,5 @@ Folder structure
 6. `admin/` — admin panel
 7. `server/` — Node.js (backend)
 8. `java-module/` — JSP + Servlet + JDBC files
+
+<img width="932" height="425" alt="image" src="https://github.com/user-attachments/assets/4f64a7b3-0aef-4e5e-aa1e-f9cca243f337" />
