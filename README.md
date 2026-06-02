@@ -1,5 +1,5 @@
 - Schedule Sync
-A college timetable conflict detection system I built as part of my Web Technologies and Applications project in my 2nd year.
+A college timetable conflict detection system I built as a part of my Web Development and Technologies CORE subject project in my 2nd year.
 The idea came from the constant timetable clashes we face in college, same faculty getting assigned to two classes, rooms getting double booked etc. So I decided to build something that actually detects and manages these conflicts.
 
 What it does
