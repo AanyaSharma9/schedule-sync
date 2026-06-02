@@ -41,6 +41,9 @@ Folder structure
 <img width="1476" height="515" alt="image" src="https://github.com/user-attachments/assets/b486bcc6-7495-4c12-b0e8-49cb96066802" />
 <img width="1861" height="851" alt="image" src="https://github.com/user-attachments/assets/abaede50-ec26-4691-9325-3ddc35a3c62e" />
 <img width="1496" height="488" alt="image" src="https://github.com/user-attachments/assets/7666bd09-762f-4657-a453-3446ffbfab54" />
+MY SQL TABLES-
+<img width="417" height="629" alt="image" src="https://github.com/user-attachments/assets/e034040a-e51c-4404-84f7-91dd86988fcd" />
+
 
 
 
